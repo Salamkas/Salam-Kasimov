@@ -1,0 +1,7 @@
+{
+  "name": "Desired Life - Custom Manifestation",
+  "description": "A platform for creating personalized manifestation meditations using AI-guided scripts and professional voice synthesis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
